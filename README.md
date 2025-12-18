@@ -41,8 +41,8 @@ This repository contains the complete workflow for a **Bitcoin price forecasting
 
 ### Deployment & Monitoring
 
-- **Model_Deployment.ipynb**  
-  Contains deployment-related insights and model diagnostics, including model performance and behavior analysis generated using **Evidently reports**.
+- **Model_Monitoring.ipynb**  
+  Contains deployment-related insights and model diagnostics, including model performance and behavior analysis generated using **Evidently reports** (evidently_baseline_ref.html and evidently_baseline_ref_vs_changed.html)
 
 ---
 
